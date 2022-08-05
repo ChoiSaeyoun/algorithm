@@ -19,6 +19,6 @@ int main(void) {
 	for (int i = 0; i < N; i++) {
 		if (arr[i] == v)cnt++;
 	}
-	cout << cnt;
+	cout <<  cnt;
 	return 0;
 }
