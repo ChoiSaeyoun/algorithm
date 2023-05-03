@@ -34,6 +34,7 @@ int main() {
 	int input;
 	for (int y = 0; y < n; y++) {
 		map.push_back({});
+
 		for (int x = 0; x < m; x++) {
 			cin >> input;
 			map[y].push_back(input);
