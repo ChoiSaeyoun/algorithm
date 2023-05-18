@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	cin.tie(0);
 	cout.tie(0);
 	ios::sync_with_stdio(0);
-
+	
 	int test_case;
 	int T = 10;
 	//cin >> T;
